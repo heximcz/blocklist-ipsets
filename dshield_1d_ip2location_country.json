@@ -1,0 +1,50 @@
+[
+	{
+		"code": "BG",
+		"value": 512
+	},
+	{
+		"code": "CN",
+		"value": 1024
+	},
+	{
+		"code": "GB",
+		"value": 512
+	},
+	{
+		"code": "HK",
+		"value": 256
+	},
+	{
+		"code": "IS",
+		"value": 768
+	},
+	{
+		"code": "LT",
+		"value": 256
+	},
+	{
+		"code": "NL",
+		"value": 2560
+	},
+	{
+		"code": "RO",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 512
+	},
+	{
+		"code": "SC",
+		"value": 768
+	},
+	{
+		"code": "SG",
+		"value": 256
+	},
+	{
+		"code": "US",
+		"value": 4352
+	}
+]
